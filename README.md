@@ -25,4 +25,12 @@
   - Skill Analysis
   - Resources
   - Job Readiness Analyzer
-  
+
+   Built using:
+🔧 Python, Streamlit
+📄 pdfplumber, python-docx, spaCy for resume parsing
+🗃️ SQLite (for authentication)
+🖥️ HTML/CSS (custom frontend inside Streamlit)
+
+💡 Explored Real-world applications of NLP, data visualization, and resume optimization logic
+
