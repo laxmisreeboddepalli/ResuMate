@@ -26,7 +26,9 @@
   - Resources
   - Job Readiness Analyzer
 
-   Built using:
+
+ Built using:
+   
 🔧 Python, Streamlit
 
 📄 pdfplumber, python-docx, spaCy for resume parsing
